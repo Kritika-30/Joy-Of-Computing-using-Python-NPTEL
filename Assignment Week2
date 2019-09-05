@@ -3,3 +3,5 @@
 x,y=input().split()
 x=int(x)
 y=int(y)
+# printing the sum in integer 
+print(x+y)
