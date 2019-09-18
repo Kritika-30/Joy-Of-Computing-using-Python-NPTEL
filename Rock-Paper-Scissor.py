@@ -20,8 +20,8 @@ def rock_paper_scissor(num1,num2,bit_one,bit_two):
     elif(player_one[p1]=='Paper' and player_two[p2]=='Rock'):
         print("Player one wins")
 
-player_one={1:'Rock',2:'Paper',3:'Scissor'}
-player_two={1:'Paper',2:'Scissor',3:'Rock'}
+player_one={0:'Rock',1:'Paper',2:'Scissor'}
+player_two={0:'Paper',1:'Scissor',2:'Rock'}
 while(1):
     num1=input('Enter your choice player one') 
     num2=input('Enter your choice player two')
