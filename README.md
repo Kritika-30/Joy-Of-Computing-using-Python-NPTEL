@@ -1,1 +1,1 @@
-# Joy-Of-Computing-using-Python-NPTEL-
+# Joy-Of-Computing-using-Python-NPTEL
