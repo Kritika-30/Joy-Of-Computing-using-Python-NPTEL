@@ -1,5 +1,5 @@
 ''' In this game each player is entering a string of number and secret digit. Therefore other player doesn't know what has been chosen. Then 
-we calculate the digit at the secret bit in string. As per th chosen value winner is declared.'''
+we calculate the digit at the secret bit in string. As per the chosen value winner is declared.'''
 
 def rock_paper_scissor(num1,num2,bit_one,bit_two):
     p1=int(num1[bit_one])%3
